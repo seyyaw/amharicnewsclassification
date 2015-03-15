@@ -1,0 +1,1 @@
+The preprocessing steps for Amharic news classification, vectorizing documents to be classified by SVM light
